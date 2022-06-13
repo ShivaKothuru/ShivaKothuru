@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ShivaKothuru
 - 👀 I’m interested in Deep learning, Computer vision, Machine Learning and NLP.
-- 🌱 I’m currently learning Graph neural Networks.
+- 🌱 I work on Graph neural Networks.
 - 💞️ I’m looking to collaborate on topics related to Deep learning involving GNN's and GAN's
 - 📫 How to reach me: email me shivakumar.kothuru@gmail.com
 
